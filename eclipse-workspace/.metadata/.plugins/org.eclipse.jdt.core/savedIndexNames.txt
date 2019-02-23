@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/Users/ridinspinaz04/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+2496960493.index
+640410600.index
+1758013665.index
+2025880085.index
+2626533168.index
